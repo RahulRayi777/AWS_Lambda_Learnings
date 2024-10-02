@@ -1,0 +1,30 @@
+
+ADAPT AND ALIGN MODuLES
+
+3)i)prompt engineering
+ii)fine tuning
+iii)Human feedback
+
+4)evaluation
+
+5)Application integration 
+
+6)Deployment
+
+optimize and deploy models for inferencing
+i)AWS
+ii)AZURE
+iii)GCP
+
+5)Application integration 
+
+Build LLM Powered Applictaion
+
+
+
+
+
+AMAZON BED ROCK:
+
+Amazon bed rock will provide u aws platfrom we can use any model through api calls we can use any model.
+
