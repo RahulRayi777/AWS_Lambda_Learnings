@@ -1,0 +1,40 @@
+IAAS vs CAAS vs SERVERLESS(keywords)
+
+ only maintenance is the difference
+
+In serverless we can concentrate more on application than other dependencies
+
+
+ server
+   |
+  \ /
+ HYPERVISER
+    |
+   \ /
+   OS 
+    |
+   \ /
+ Container Engine
+    |
+   \ /
+  Runtime 
+    |
+   \ /
+Application
+    |
+   \ /
+   Code 
+
+
+
+Serverless services:
+
+Lambda services (function as a service) code will execute based on functions(pay as u use)
+(Low cost)
+(low maintainence)
+
+Request-->Lambda-->Container--response--container kill
+
+AZure-->functions
+
+GCP--->functions
